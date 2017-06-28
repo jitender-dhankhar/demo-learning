@@ -1,6 +1,6 @@
 {
   "name": "demo-learning",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This demo is only for learning",
   "main": "index.js",
   "scripts": {
